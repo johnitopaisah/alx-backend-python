@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
-
+"""Contains a method that measure the total execution time of
+a function"""
 import asyncio
 import random
 
