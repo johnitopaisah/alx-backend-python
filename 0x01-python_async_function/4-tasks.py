@@ -1,4 +1,4 @@
-#!/usr/bin/env pytnon3
+#!/usr/bin/env python3
 """
 Contains a method that spawns Tasks n times with a
 specified delay between each call.
